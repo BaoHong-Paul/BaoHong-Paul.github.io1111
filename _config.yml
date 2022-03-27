@@ -1,1 +1,21 @@
 theme: jekyll-theme-cayman
+
+
+
+   
+# Site settings
+title: Bao Hong
+SEOTitle: Bao Hong
+header-img: img/gitpage.jpg
+email: bh2378@nyu.edu
+
+description: "Personal page of Bao Hong."
+keyword: "Bao Hong"
+url: "https://baohong-paul.github.io/"          # your host, for absolute URL
+
+github_repo: "https://github.com/baohong-paul/baohong-paul.github.io.git" # you code repository
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "Institute of Cognitive Neuroscience <br/>East China Normal University<br/>China"
+sidebar-avatar: /img/HB2.jpg      
